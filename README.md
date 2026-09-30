@@ -38,6 +38,6 @@ The more context you give, the sharper the answer.
 
 5. Upload the skill: Click the "+" button → "+ Create skill" → "Upload a skill" Upload the ZIP file you downloaded
 
-6. Enable it: Find "lecture-summary" in your skills list and toggle it on
+6. Enable it: Find "industry-bu-buckets" in your skills list and toggle it on
 
 That's it! Claude will now use this skill automatically whenever you ask it to create business frameworks & buckets.
