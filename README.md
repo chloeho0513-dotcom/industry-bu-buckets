@@ -30,7 +30,7 @@ The more context you give, the sharper the answer.
 
 1. You'll need a Claude account (Free, Pro, Max, Team, or Enterprise all work). Code execution must be enabled.
 
-2. Download the skill: Click the green Code button above → Download ZIP, or download lecture-summary-skill.zip directly from this repo
+2. Download the skill: Click the green Code button above → Download ZIP, or download the zip file directly from this repo
 
 3. Open Claude at claude.ai
 
