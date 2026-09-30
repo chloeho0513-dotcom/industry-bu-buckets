@@ -28,16 +28,16 @@ The more context you give, the sharper the answer.
 
 ## Install
 
-You'll need a Claude account (Free, Pro, Max, Team, or Enterprise all work). Code execution must be enabled.
+1. You'll need a Claude account (Free, Pro, Max, Team, or Enterprise all work). Code execution must be enabled.
 
-Download the skill: Click the green Code button above → Download ZIP, or download lecture-summary-skill.zip directly from this repo
+2. Download the skill: Click the green Code button above → Download ZIP, or download lecture-summary-skill.zip directly from this repo
 
-Open Claude at claude.ai
+3. Open Claude at claude.ai
 
-Go to your Skills settings: Click your profile picture → Customize → Skills
+4. Go to your Skills settings: Click your profile picture → Customize → Skills
 
-Upload the skill: Click the "+" button → "+ Create skill" → "Upload a skill" Upload the ZIP file you downloaded
+5. Upload the skill: Click the "+" button → "+ Create skill" → "Upload a skill" Upload the ZIP file you downloaded
 
-Enable it: Find "lecture-summary" in your skills list and toggle it on
+6. Enable it: Find "lecture-summary" in your skills list and toggle it on
 
 That's it! Claude will now use this skill automatically whenever you ask it to create business frameworks & buckets.
