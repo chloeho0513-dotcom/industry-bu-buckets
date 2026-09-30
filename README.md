@@ -6,10 +6,16 @@ This skill breaks any industry into 5 to 6 MECE buckets that follow how the
 business actually works. Each bucket shows:
 
 - **Business Units**: what the main business units are
-  - **Core Levers**: what management can change
-    - **Key Revenue**: where the money comes from
-    - **Key Costs**: where the money goes
+  - **Core Levers**: the 3 things management can change
+    - **Sub-elements**: 3 per lever, each explained in plain words
 - **Critical Questions**: what to ask the client first
+
+This repo has two skills that work together:
+
+| Skill | What it does |
+|---|---|
+| `industry-bu-buckets` | Gives the framework for an industry |
+| `industry-issue-trees` | Turns the framework into an interactive issue-tree page |
 
 ## How to use
 
@@ -27,6 +33,18 @@ Examples:
 
 The more context you give, the sharper the answer.
 
+## Issue trees
+
+Type `/industry-issue-trees` (Claude Code) or mention the skill by name, then say which industries you want.
+
+Each business unit opens into its 3 levers, and each lever into its 3 sub-elements. Levers are badged as mainly revenue, mainly cost, or both. The badges are a judgement, not a dollar measure.
+
+Examples:
+
+> /industry-issue-trees Build issue trees for all 12 industries.
+
+> /industry-issue-trees Airlines only, with revenue and cost badges.
+
 ## Install
 
 1. You'll need a Claude account (Free, Pro, Max, Team, or Enterprise all work). Code execution must be enabled.
@@ -42,3 +60,5 @@ The more context you give, the sharper the answer.
 6. Enable it: Find "industry-bu-buckets" in your skills list and toggle it on
 
 That's it! Claude will now use this skill automatically whenever you ask it to create business frameworks & buckets.
+
+**For issue trees:** repeat steps 2 to 6 with the `industry-issue-trees` zip, and toggle on "industry-issue-trees".
