@@ -1,4 +1,4 @@
-# Industry BU Buckets
+# Industry Business Units Buckets
 
 **New to an industry? Get the whole business on one page, on day one.**
 
