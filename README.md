@@ -5,9 +5,10 @@
 This skill breaks any industry into 5 to 6 MECE buckets that follow how the
 business actually works. Each bucket shows:
 
-- **Core Levers**: what management can change
-- **Key Revenue**: where the money comes from
-- **Key Costs**: where the money goes
+- **Business Units**: what the main business units are
+  - **Core Levers**: what management can change
+    - **Key Revenue**: where the money comes from
+    - **Key Costs**: where the money goes
 - **Critical Questions**: what to ask the client first
 
 ## How to use
