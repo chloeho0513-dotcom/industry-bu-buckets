@@ -28,6 +28,16 @@ The more context you give, the sharper the answer.
 
 ## Install
 
-- **Claude.ai:** Settings → Capabilities → Skills → upload the `.skill` file
-  (download it from the Releases page).
-- **Claude Code:** copy the `industry-bu-buckets` folder into `~/.claude/skills/`.
+You'll need a Claude account (Free, Pro, Max, Team, or Enterprise all work). Code execution must be enabled.
+
+Download the skill: Click the green Code button above → Download ZIP, or download lecture-summary-skill.zip directly from this repo
+
+Open Claude at claude.ai
+
+Go to your Skills settings: Click your profile picture → Customize → Skills
+
+Upload the skill: Click the "+" button → "+ Create skill" → "Upload a skill" Upload the ZIP file you downloaded
+
+Enable it: Find "lecture-summary" in your skills list and toggle it on
+
+That's it! Claude will now use this skill automatically whenever you ask it to create business frameworks & buckets.
